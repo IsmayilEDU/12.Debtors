@@ -1,0 +1,15 @@
+C:\Ismayil\PROJECTS\StepIT\4.C#\12.Linq\Deptors\obj\Debug\net6.0\Deptors.csproj.AssemblyReference.cache
+C:\Ismayil\PROJECTS\StepIT\4.C#\12.Linq\Deptors\obj\Debug\net6.0\Deptors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ismayil\PROJECTS\StepIT\4.C#\12.Linq\Deptors\obj\Debug\net6.0\Deptors.AssemblyInfoInputs.cache
+C:\Ismayil\PROJECTS\StepIT\4.C#\12.Linq\Deptors\obj\Debug\net6.0\Deptors.AssemblyInfo.cs
+C:\Ismayil\PROJECTS\StepIT\4.C#\12.Linq\Deptors\obj\Debug\net6.0\Deptors.csproj.CoreCompileInputs.cache
+C:\Ismayil\PROJECTS\StepIT\4.C#\12.Linq\Deptors\bin\Debug\net6.0\Deptors.exe
+C:\Ismayil\PROJECTS\StepIT\4.C#\12.Linq\Deptors\bin\Debug\net6.0\Deptors.deps.json
+C:\Ismayil\PROJECTS\StepIT\4.C#\12.Linq\Deptors\bin\Debug\net6.0\Deptors.runtimeconfig.json
+C:\Ismayil\PROJECTS\StepIT\4.C#\12.Linq\Deptors\bin\Debug\net6.0\Deptors.dll
+C:\Ismayil\PROJECTS\StepIT\4.C#\12.Linq\Deptors\bin\Debug\net6.0\Deptors.pdb
+C:\Ismayil\PROJECTS\StepIT\4.C#\12.Linq\Deptors\obj\Debug\net6.0\Deptors.dll
+C:\Ismayil\PROJECTS\StepIT\4.C#\12.Linq\Deptors\obj\Debug\net6.0\refint\Deptors.dll
+C:\Ismayil\PROJECTS\StepIT\4.C#\12.Linq\Deptors\obj\Debug\net6.0\Deptors.pdb
+C:\Ismayil\PROJECTS\StepIT\4.C#\12.Linq\Deptors\obj\Debug\net6.0\Deptors.genruntimeconfig.cache
+C:\Ismayil\PROJECTS\StepIT\4.C#\12.Linq\Deptors\obj\Debug\net6.0\ref\Deptors.dll
